@@ -1,0 +1,7 @@
+[project]
+name = "taskly-api"
+version = "0.1.0"
+description = "Python FastAPI for taskly"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
